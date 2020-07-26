@@ -1,3 +1,3 @@
 # FunLearn
-Progate - Week of learning Webathon 
+## Progate - Week of learning Webathon 
 
